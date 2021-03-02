@@ -7,3 +7,5 @@
 confirmed to save and commit
 
 4. go to library
+
+5. play ping pong
